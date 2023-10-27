@@ -18,6 +18,44 @@ In a world driven by technology, Scelland Technologies stands as a beacon of inn
 
 Scelland Technologies is not just a tech company; it's your partner in the journey of tech transformation. We invite you to join us on this exciting voyage of innovation, where we make tomorrow's innovations a reality today.
 
+### JSON-LD
+```json
+<script type="application/ld+json">
+{
+  "headline": "HEADLINE",
+  "inLanguage": "en",
+  "keywords": "scelland systems",
+  "datePublished": "2023-09-26",
+  "dateModified": "2023-09-26T11:30:39Z",
+  "publisher": {
+    "logo": {
+      "width": 512,
+      "height": 220,
+      "@type": "ImageObject",
+      "url": "https://www.scelland.com/logo.jpg"
+    },
+    "@type": "Organization",
+    "url": "https://www.scelland.com",
+    "sameAs": [
+      "https://www.facebook.com/scelland",
+      "https://twitter.com/MTVDRC",
+      "https://www.instagram.com/scelland/",
+      "https://www.youtube.com/@scelland",
+      "https://www.linkedin.com/company/scelland/"
+    ],
+    "name": "scelland – Kwa Habari Za Uhakika Kwa Ajili Yako",
+    "alternateName": "scelland"
+  },
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "mainEntityOfPage": "https://www.scelland.com/",
+  "url": "https://www.scelland.com/",
+  "description": "scelland.com.",
+  "name": "scelland systems"
+}
+</script>
+```
+
 ### Design Template: Webflow
 - [EcoLabs](https://ecolabs-template.webflow.io/)
 
