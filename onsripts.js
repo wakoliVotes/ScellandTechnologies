@@ -16,12 +16,12 @@ const OnScriptsItems = () => {
       aria-current="page"
       class="nav-link w-nav-link w--current"
       >Home</a
-    ><a href="/about" class="nav-link w-nav-link">About</a
-    ><a href="/courses" class="nav-link w-nav-link">Courses</a
-    ><a href="/teachers" class="nav-link w-nav-link">Techers</a
-    ><a href="/blog" class="nav-link w-nav-link">Blog</a>
+    ><a href="/about.html" class="nav-link w-nav-link">About</a
+    ><a href="/services.html" class="nav-link w-nav-link">Services</a
+    ><a href="team.html" class="nav-link w-nav-link">Team</a
+    ><a href="/blog.html" class="nav-link w-nav-link">Blog</a>
     <div class="header-button">
-      <a href="/contact" class="outline-button nav-button w-button"
+      <a href="contact.html" class="outline-button nav-button w-button"
         >Contact</a
       >
     </div>
@@ -49,11 +49,11 @@ const OnScriptsItems = () => {
             aria-current="page"
             class="footer-link f-first-link w--current"
             >Home</a
-          ><a href="/about" class="footer-link">About</a
-          ><a href="/courses" class="footer-link">Courses</a
-          ><a href="/teachers" class="footer-link">Teachers</a
-          ><a href="/blog" class="footer-link">Blog</a
-          ><a href="/contact" class="footer-link">Contact</a>
+          ><a href="/about.html" class="footer-link">About</a
+          ><a href="/services.html" class="footer-link">Services</a
+          ><a href="team.html" class="footer-link">Team</a
+          ><a href="/blog.html" class="footer-link">Blog</a
+          ><a href="contact.html" class="footer-link">Contact</a>
         </div>
       </div>
       <div class="ft-right">
@@ -105,13 +105,13 @@ const OnScriptsItems = () => {
         <div class="copyright-text">
           Designed by
           <a href="https://nixar.io/" target="_blank" class="copyright-link"
-            >Nixar</a
+            >AnchorMiles</a
           >. Powered by
           <a
             href="https://webflow.com/"
             target="_blank"
             class="copyright-link"
-            >Webflow</a
+            >Vercel | Webflow</a
           >.
         </div>
       </div>
@@ -126,6 +126,8 @@ const OnScriptsItems = () => {
     </div>
   </div>
     `;
+
+
     signUpNow.innerHTML = `
     <div class="container w-container">
     <div class="cta-wrap">
