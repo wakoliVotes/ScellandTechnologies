@@ -104,11 +104,11 @@ const OnScriptsItems = () => {
       <div class="fb-left">
         <div class="copyright-text">
           Designed by
-          <a href="https://nixar.io/" target="_blank" class="copyright-link"
+          <a href="https://www.anchormiles.com/" target="_blank" class="copyright-link"
             >AnchorMiles</a
           >. Powered by
           <a
-            href="https://webflow.com/"
+            href=""
             target="_blank"
             class="copyright-link"
             >Vercel | Webflow</a
