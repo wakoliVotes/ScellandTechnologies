@@ -120,7 +120,7 @@ const OnScriptsItems = () => {
           <a href="/style-guide" class="footer-link f-first-link"
             >Style Guide</a
           ><a href="/licensing" class="footer-link">Licensing</a
-          ><a href="/changelog" class="footer-link">Changelog</a>
+          ><a href="/changelog.html" class="footer-link">Changelog</a>
         </div>
       </div>
     </div>
