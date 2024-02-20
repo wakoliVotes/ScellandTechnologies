@@ -1,8 +1,26 @@
 const OnScriptsItems = () => {
+    const topBanner = document.querySelector('.top-banner');
     const navbarItems = document.querySelector('.navbar');
     const footerItems = document.querySelector('.footer');
     const signUpNow = document.querySelector('.cta-section');
     const relatedBlogs = document.querySelector('.related-blogs');
+
+    topBanner.innerHTML = `
+          <div class="body-small">
+          Let&#x27;s join other business and professionals to grow your Brand. Click <a href="/contact.html" class="small-body">here</a> to get started!
+        </div>
+        <a
+          data-w-id="2821e135-7aa8-6b95-31e7-9619bcd3136a"
+          href="#"
+          class="top-banner-close w-inline-block"
+          ><img
+            src="https://uploads-ssl.webflow.com/63201b51f3e2d01beecbb8b7/632a9b1fe4ce437c56019876_ic-close.svg"
+            loading="lazy"
+            alt="Close Icon"
+            class="img-block"
+        />
+        </a>
+        `
 
     navbarItems.innerHTML = `
     <a href="/" aria-current="page" class="brand w-nav-brand w--current"
