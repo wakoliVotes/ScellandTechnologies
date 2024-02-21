@@ -893,6 +893,7 @@
    .teacher-link-block:hover {
      box-shadow: 0 20px 50px 0 rgba(0, 0, 0, 0.05);
      color: #333;
+     cursor: default;
    }
    
    .teacher-link-block:focus {
