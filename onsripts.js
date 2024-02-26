@@ -151,7 +151,7 @@ const OnScriptsItems = () => {
     <div class="cta-wrap">
       <h2>Still thinking about it?</h2>
       <div class="body-small sub-heading">
-        Sign up for our newsletter and get 10% off your next course.
+        Sign up for our newsletter and get insights for your brand &amp; business
       </div>
       <div class="cta-newsletter">
         <div class="w-form">
