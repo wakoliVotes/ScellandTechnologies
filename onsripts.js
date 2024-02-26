@@ -25,8 +25,8 @@ const OnScriptsItems = () => {
     navbarItems.innerHTML = `
     <a href="/" aria-current="page" class="brand w-nav-brand w--current"
     ><img
-      src="https://uploads-ssl.webflow.com/63201b51f3e2d01beecbb8b7/632a9c94d018c2559bf7a584_ecolabs-logo.svg"
-      alt="Ecolabs"
+      src="/icons/brand_logo.png"
+      alt="Scelland Technologies"
   /></a>
   <nav role="navigation" class="nav-menu w-nav-menu">
     <a
@@ -57,7 +57,7 @@ const OnScriptsItems = () => {
       <div class="ft-left">
         <a href="/" aria-current="page" class="w-inline-block w--current"
           ><img
-            src="https://uploads-ssl.webflow.com/63201b51f3e2d01beecbb8b7/6343f5a7b7c5def7d3d5fca0_footer-logo.svg"
+            src="/icons/brand_logo_footer.png"
             loading="lazy"
             alt="Ecolabs"
         /></a>
