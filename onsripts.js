@@ -125,11 +125,9 @@ const OnScriptsItems = () => {
           <a href="https://www.anchormiles.com/" target="_blank" class="copyright-link"
             >AnchorMiles</a
           >. Powered by
-          <a
-            href=""
-            target="_blank"
+          <span
             class="copyright-link"
-            >Vercel | Webflow</a
+            >Vercel | Webflow</span
           >.
         </div>
       </div>

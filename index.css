@@ -1361,16 +1361,16 @@
    .copyright-link {
      -webkit-transition: color 300ms ease;
      transition: color 300ms ease;
-     color: #fff;
+     color: #fffb00;
      text-decoration: none;
    }
    
    .copyright-link:hover {
-     color: #fe7d55;
+     color: #ff0000;
    }
    
    .copyright-link:focus {
-     color: #fe7d55;
+     color: #ff0000;
    }
    
    .social-link {
