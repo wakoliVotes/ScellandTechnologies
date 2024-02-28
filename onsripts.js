@@ -71,6 +71,7 @@ const OnScriptsItems = () => {
           ><a href="/services.html" class="footer-link">Services</a
           ><a href="team.html" class="footer-link">Team</a
           ><a href="/blog.html" class="footer-link">Blog</a
+          ><a href="/careers.html" class="footer-link">Careers</a
           ><a href="contact.html" class="footer-link">Contact</a>
         </div>
       </div>
