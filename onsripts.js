@@ -133,10 +133,9 @@ const OnScriptsItems = () => {
       </div>
       <div class="fb-right">
         <div class="fb-link">
-          <a href="/style-guide" class="footer-link f-first-link"
-            >Style Guide</a
-          ><a href="/licensing" class="footer-link">Licensing</a
-          ><a href="/changelog.html" class="footer-link">Changelog</a>
+          <span class="footer-link f-first-link"
+            >&copy; 2024 Scelland | All Rights Reserved</span
+          >
         </div>
       </div>
     </div>
