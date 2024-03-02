@@ -57,7 +57,7 @@ Scelland Technologies is not just a tech company; it's your partner in the journ
 ```
 
 ### Design Template: Webflow
-- [EcoLabs](https://ecolabs-template.webflow.io/)
+- [EcoLabs](https://scelland/)
 
   ![image](https://github.com/wakoliVotes/ScellandTechnologies/assets/77758884/de990b29-bee7-4c63-917b-1c3b963f5d4e)
 
