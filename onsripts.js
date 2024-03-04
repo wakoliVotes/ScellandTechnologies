@@ -59,7 +59,7 @@ const OnScriptsItems = () => {
           ><img
             src="/icons/brand_logo_footer.png"
             loading="lazy"
-            alt="Ecolabs"
+            alt="Scelland"
         /></a>
         <div class="footer-menu">
           <a
@@ -119,6 +119,16 @@ const OnScriptsItems = () => {
         /></a>
       </div>
     </div>
+    <div class="footer-top">
+    <div class="ft-left">      
+      <div class="footer-menu">
+        <span class="footer-link">Phone: +254115197294</span>
+      </div>
+    </div>
+    <div class="ft-right">
+    <span class="footer-link">Email: getintouchdesk@gmail.com</span>
+    </div>
+  </div>
     <div class="footer-bottom">
       <div class="fb-left">
         <div class="copyright-text">
