@@ -81,7 +81,7 @@ const OnScriptsItems = () => {
           target="_blank"
           class="social-link w-inline-block"
           ><img
-            src="https://uploads-ssl.webflow.com/63201b51f3e2d01beecbb8b7/6343f888dbb1a122e12f5f4e_twitter.svg"
+            src="/icons/twitter.svg"
             loading="lazy"
             alt="Icon" /></a
         ><a
@@ -89,7 +89,7 @@ const OnScriptsItems = () => {
           target="_blank"
           class="social-link w-inline-block"
           ><img
-            src="https://uploads-ssl.webflow.com/63201b51f3e2d01beecbb8b7/6343f89d8116cd597b52bcb7_facebook.svg"
+            src="/icons/facebook.svg"
             loading="lazy"
             alt="Icon" /></a
         ><a
@@ -97,7 +97,7 @@ const OnScriptsItems = () => {
           target="_blank"
           class="social-link w-inline-block"
           ><img
-            src="https://uploads-ssl.webflow.com/63201b51f3e2d01beecbb8b7/6343f8ab8d435cab6978946d_youtube.svg"
+            src="/icons/youtube.svg"
             loading="lazy"
             alt="Icon" /></a
         ><a
@@ -105,15 +105,15 @@ const OnScriptsItems = () => {
           target="_blank"
           class="social-link w-inline-block"
           ><img
-            src="https://uploads-ssl.webflow.com/63201b51f3e2d01beecbb8b7/6343f8b5feeda34757e88104_instagram.svg"
+            src="/icons/instagram.svg"
             loading="lazy"
             alt="Icon" /></a
         ><a
-          href="http://linkedin.com/"
+          href="https://www.linkedin.com/company/anchormiles/"
           target="_blank"
           class="social-link w-inline-block"
           ><img
-            src="https://uploads-ssl.webflow.com/63201b51f3e2d01beecbb8b7/6343f8c2feeda3b5c9e89cc7_linkedin.svg"
+            src="/icons/linkedin.svg"
             loading="lazy"
             alt="Icon"
         /></a>
