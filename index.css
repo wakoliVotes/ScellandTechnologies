@@ -802,7 +802,7 @@
      background-color: #fff;
    }
    
-   .lesson-text {
+   .lesson-text, .footer-contacts {
      padding-top: 5px;
      color: #fe7d55;
      font-size: 12px;

@@ -122,15 +122,11 @@ const OnScriptsItems = () => {
     <div class="footer-top">
     <div class="ft-left">      
       <div class="footer-menu">
-      <span>
-        Phone:<a href="tel:+254115197294" class="footer-link" >+254115197294</a>
-        </span>
+      <span class="footer-contacts" >Phone:</span><a href="tel:+254115197294" class="footer-link" >+254115197294</a>
       </div>
     </div>
     <div class="ft-right">
-    <span>
-      Email:<a href="mailto:getintouchdesk@gmail.com" class="footer-link">getintouchdesk@gmail.com</a>
-    </span>
+    <span class="footer-contacts">Email:</span><a href="mailto:getintouchdesk@gmail.com" class="footer-link">getintouchdesk@gmail.com</a>
     </div>
   </div>
     <div class="footer-bottom">
