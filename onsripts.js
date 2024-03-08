@@ -126,7 +126,7 @@ const OnScriptsItems = () => {
       </div>
     </div>
     <div class="ft-right">
-    <span class="footer-link">Email: getintouchdesk@gmail.com</span>
+    <a href="mailto:getintouchdesk@gmail.com" class="footer-link">getintouchdesk@gmail.com</a>
     </div>
   </div>
     <div class="footer-bottom">
