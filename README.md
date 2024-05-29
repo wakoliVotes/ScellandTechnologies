@@ -1,11 +1,19 @@
 # Scelland Technologies
+
+<img src="img/home.png" >
+
+
+
 **Introduction:**
+
 Scelland Technologies is not just a tech company; it's a journey, an embodiment of innovation, and a promise to transform the digital landscape. At Scelland Technologies, we believe in the power of technology to shape the future. Our relentless pursuit of excellence has paved the way for us to create a paradigm shift in the world of tech solutions. 
 
 **Pitch:**
+
 In a world driven by technology, Scelland Technologies stands as a beacon of innovation, redefining what's possible. Our core mission is to empower your journey, whether you are an individual, a startup, or an enterprise. We are your partners in crafting bespoke tech solutions that elevate your vision and take you to new heights.
 
 **Slogan:** 
+
 "Shaping Tomorrow's Innovations Today"
 
 **Key Principles:**
@@ -56,8 +64,6 @@ Scelland Technologies is not just a tech company; it's your partner in the journ
 </script>
 ```
 
-### Design Template: Webflow
-- [EcoLabs](https://scelland/)
+**Time**
 
-  ![image](https://github.com/wakoliVotes/ScellandTechnologies/assets/77758884/de990b29-bee7-4c63-917b-1c3b963f5d4e)
-
+[![wakatime](https://wakatime.com/badge/user/516374bf-c07b-49d5-9972-bc15f71c20a3/project/b59d4f14-2f62-48a5-8fbc-7a3fbe6ef3ad.svg)](https://wakatime.com/badge/user/516374bf-c07b-49d5-9972-bc15f71c20a3/project/b59d4f14-2f62-48a5-8fbc-7a3fbe6ef3ad)
