@@ -10968,7 +10968,7 @@
           m = /list-manage[1-9]?.com/i,
           y = e.debounce(function () {
             g(
-              "Oops! This page has improperly configured forms. Please contact your website administrator to fix this issue."
+              // "Oops! This page has improperly configured forms. Please contact your website administrator to fix this issue."
             );
           }, 100);
         function _(e, n) {
