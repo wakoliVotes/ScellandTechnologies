@@ -77,7 +77,7 @@ const OnScriptsItems = () => {
       </div>
       <div class="ft-right">
         <a
-          href="https://twitter.com/"
+          href="https://twitter.com/acceldia"
           target="_blank"
           class="social-link w-inline-block"
           ><img
