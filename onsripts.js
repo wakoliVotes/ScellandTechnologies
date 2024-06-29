@@ -93,7 +93,7 @@ const OnScriptsItems = () => {
             loading="lazy"
             alt="Icon" /></a
         ><a
-          href="http://youtube.com/"
+          href="http://youtube.com/@acceldia"
           target="_blank"
           class="social-link w-inline-block"
           ><img
