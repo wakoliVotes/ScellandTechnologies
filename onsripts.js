@@ -135,7 +135,12 @@ const OnScriptsItems = () => {
           Designed by
           <a href="https://www.anchormiles.com/" target="_blank" class="copyright-link"
             >AnchorMiles</a
-          >. Powered by
+          >
+        </div>
+      </div>
+      <div class="fb-left">
+        <div class="copyright-text">
+          Powered by
           <span
             class="copyright-link"
             >Vercel | Webflow</span
@@ -146,7 +151,7 @@ const OnScriptsItems = () => {
         <div class="fb-link">
           <span class="footer-link f-first-link"
             >&copy; 2024 Scelland | All Rights Reserved</span
-          >
+          >          
         </div>
       </div>
     </div>
